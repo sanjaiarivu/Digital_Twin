@@ -1,0 +1,8 @@
+backend/.env
+backend/.venv/
+backend/instance/
+backend/__pycache__/
+ml_model/model.joblib
+frontend/node_modules/
+frontend/dist/
+*.py[cod]
